@@ -21,7 +21,7 @@ db.passwd= "공백"
 ~~~
 
 
-#### ex01)  JavaPostgreSQLPrepared.java
+#### ex)  JavaPostgreSQLPrepared.java
 
 ~~~java
 package com.zetcode;
