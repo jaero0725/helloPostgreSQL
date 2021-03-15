@@ -4,7 +4,7 @@ PostgreSQL 연습
 #### dependency 추가
 > 의존성 추가
 ~~~xml
-    <!-- postgreSQL -->
+  		<!-- postgreSQL -->
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
