@@ -62,4 +62,4 @@ public class JavaPostgreSQLPrepared {
 ~~~
 
 ### 참고사이트
-[https://zetcode.com/java/postgresql/]https://zetcode.com/java/postgresql/
+https://zetcode.com/java/postgresql/
