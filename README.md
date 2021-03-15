@@ -12,7 +12,7 @@ PostgreSQL 연습
 		</dependency>
 ~~~
 
-#### properties
+#### properties 파일
 
 ~~~
 db.url=jdbc:postgresql://localhost:5432/testdb
